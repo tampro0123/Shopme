@@ -885,8 +885,10 @@
 /* App container  */
 
 .app__container {
-  background-image: url("../image/273003252_1062665557625541_1923586120461048673_n.jpg");
+  background-image: url("https://scontent.fdad1-2.fna.fbcdn.net/v/t1.15752-9/278807370_4829764033812887_1796018863123796971_n.jpg?_nc_cat=106&ccb=1-5&_nc_sid=ae9488&_nc_ohc=b40CySDV7bUAX8D_AFq&_nc_ht=scontent.fdad1-2.fna&oh=03_AVISoq4HxxMoBwZw0wwmKUkyE5cAinCC3eVpIa7LPHf0hA&oe=629778F4");
   background-attachment: fixed;
+  background-size: contain;
+ 
   padding-left: 8px;
 
   padding-right: 8px;
